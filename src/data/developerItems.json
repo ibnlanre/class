@@ -1,0 +1,9 @@
+[
+  "API Documentation",
+  "API Reference",
+  {
+    "label": "API Status",
+    "link": "api-status",
+    "ping": true
+  }
+]

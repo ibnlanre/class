@@ -1,0 +1,25 @@
+.menu-container {
+  display: grid;
+  margin-inline: 100px;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.nav-title {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin-bottom: 2ch;
+}
+
+.nav-list {
+  display: grid;
+  gap: 20px;
+}
+
+.nav-list a {
+  text-decoration: none;
+  color: initial;
+}
+
+.nav-list a:hover {
+  color: #00abab;
+}

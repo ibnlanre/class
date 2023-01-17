@@ -1,0 +1,29 @@
+.contact-sales-container {
+  background-color: #1d1d1d;
+  border-radius: 2rem;
+  color: white;
+  display: grid;
+  padding-inline: 20%;
+  padding-block: 8%;
+  gap: 5rem;
+}
+
+.heading {
+  display: grid;
+  gap: 2rem;
+}
+
+.title {
+  margin: 0px;
+  font-size: 50px;
+}
+
+.content {
+  font-size: 22px;
+  margin: 0px;
+}
+
+.contact {
+  color: white;
+  text-decoration: none;
+}
