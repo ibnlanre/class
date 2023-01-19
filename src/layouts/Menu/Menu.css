@@ -1,6 +1,8 @@
 .menu-container {
   display: grid;
-  margin-inline: 100px;
+  max-width: 1240px;
+  width: 100%;
+  justify-self: center;
   grid-template-columns: repeat(5, 1fr);
 }
 

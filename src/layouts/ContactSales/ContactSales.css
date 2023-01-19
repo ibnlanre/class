@@ -1,10 +1,13 @@
 .contact-sales-container {
+  max-width: 1240px;
+  justify-self: center;
   background-color: #1d1d1d;
   border-radius: 2rem;
   color: white;
   display: grid;
-  padding-inline: 20%;
-  padding-block: 8%;
+  box-sizing: border-box;
+  padding-inline: 5%;
+  padding-block: 5%;
   gap: 5rem;
 }
 
